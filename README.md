@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Lynn's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-  
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=282D33&center=true&vCenter=true&width=435&lines=Frontend+Developer;Android" alt="Typing SVG" />
 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frcl0511&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
@@ -10,14 +10,13 @@
 
 <div align="center">
   <h3 align="center">"만들고 끝내는 것이 아니라, 실제 문제 해결 → 검증 → 확장까지 비즈니스 가치를 설계합니다."</h3>
-
 </div>
 
 <br/>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>
-  
+
   <p><b>Frontend</b></p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -44,12 +43,13 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activity Analysis </h2>
-  
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcl0511&theme=2019" width="100%"/>
 
   <br/>
 
-  <img src="https://github-readme-trophies.vercel.app/?username=rcl0511&theme=flat&column=7&margin-w=15&no-bg=true&no-frame=true" />
+  <!-- ✅ trophies 도메인 교체 + 캐시 무효화(v=1) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rcl0511&theme=flat&column=7&margin-w=15&no-bg=true&no-frame=true&v=1" />
 
   <br/>
 
