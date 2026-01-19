@@ -10,6 +10,14 @@
 
 <div align="center">
   <h3 align="center">"만들고 끝내는 것이 아니라, 실제 문제 해결 → 검증 → 확장까지 비즈니스 가치를 설계합니다."</h3>
+<br/>
+
+> 더 자세한 내용과 화면은 포트폴리오에서 확인할 수 있어요:  
+> **https://chaerin0511.netlify.app/**
+
+</div>
+
+  
 </div>
 
 <br/>
@@ -58,6 +66,29 @@
 </div>
 
 <br/>
+
+## Selected Projects
+
+### 1) SOSAI — AI 응급 대응 웹 서비스 (Team Project)
+- 🏆 **HIRA 보건의료 창업아이디어대회 입상**
+- 📌 **국내 특허 출원 진행 중**
+- 응급 상황에서 **화면 없이도 음성(TTS)**로 단계별 행동 지침 제공  
+- 2025.03 - 2025.06
+
+### 2) Smart Barricade — IoT 기반 스마트 안전 시스템 (Team Project)
+- 🏆 2025 숙명여대 캡스톤 디자인 대상  
+- 🏆 2025 기계인더피날레(과 대회) 1등  
+- 군중 밀집 상황을 하중 데이터로 정량화해 사고를 사전에 예방  
+- 2025.09 - 2025.12
+
+### 3) Business Automation — 의약품 도매 실무 자동화 (Solo Project)
+- 반복 업무 자동화로 처리 시간 대폭 단축  
+- Node.js / Python 기반 스크립트 & PDF Parsing  
+`Node.js · Python · PDF Parsing · Automation Script`
+
+### 4) Baseball News Generator — 스포츠 기사 자동 생성 (Team Project)
+- 야구 경기 데이터를 자연어 기사로 자동 변환  
+`Python · Rule-based NLP · Data Processing`
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Connect </h2>
