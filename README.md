@@ -1,23 +1,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Lynn's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=282D33&center=true&vCenter=true&width=435&lines=Frontend+Developer;Android+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=282D33&center=true&vCenter=true&width=435&lines=Frontend+Developer;" />
   <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frcl0511&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <h3 align="center">"만들고 끝내는 것이 아니라, 실제 문제 해결 → 검증 → 확장까지 비즈니스 가치를 설계합니다."</h3>
+  <h3 align="center">만들고 끝내는 것이 아니라, 실제 문제 해결 → 검증 → 확장까지 비즈니스 가치를 설계합니다.</h3>
 </div>
 
 <br/>
 
 <div align="center">
-  <div style="width: 92%; max-width: 850px;">
+  <div style="width: 100%; max-width: 1000px;">
     <a href="https://chaerin0511.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white" height="35"/>
+      <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white" height="100"/>
     </a>
     <div style="margin-top: 15px; background: #111827; border-radius: 20px; padding: 2px; background: linear-gradient(45deg, #0047AB, #0EA5E9);">
       <div style="background: #ffffff; border-radius: 18px; padding: 25px; text-align: left;">
